@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Yollan Verleysen</h1>
-- 🌱 J'apprends actuellement : **HTML, CSS & Python**
+- 🌱 J'apprends actuellement **HTML, CSS & Python**
 
-- 📫 Comment me contacter : **yollanverleysen@gmail.com**
+- 📫 Comment me contacter **yollanverleysen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
