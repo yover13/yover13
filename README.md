@@ -1,10 +1,10 @@
 <h1 align="center">Salut, je suis Yollan Verleysen</h1>
 
-- 🌱 J'apprends actuellement **HTML, CSS & Python**
+- 🌱 J'apprends actuellement : **HTML, CSS & Python**
 
-- 📫 Comment me contacter **yollanverleysen@gmail.com**
+- 📫 Comment me contacter : **yollanverleysen@gmail.com**
 
-<h3 align="left">Contacter moi:</h3>
+<h3 align="left">Contactez moi :</h3>
 <p align="left">
 <a href="https://instagram.com/yollan_verleysen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yollan_verleysen" height="30" width="40" /></a>
 </p>
